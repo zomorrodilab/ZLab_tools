@@ -6,7 +6,7 @@ Original Author: [Izzy Goodchild-Michelman, Zomorrodi Lab](https://github.com/zo
 
 Original MATLAB implementation: [Microbiome Modeling Toolbox 2.0 by Heinken et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/35157025/)
 
-Latest version updated [here](https://github.com/kevinliu-bmb/MMTPy) by Kevin Liu
+Latest version hosted [here](https://github.com/kevinliu-bmb/MMTPy) by Kevin Liu
 
 ## Changes
 
