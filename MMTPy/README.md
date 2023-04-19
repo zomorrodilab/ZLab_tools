@@ -18,7 +18,7 @@ Latest version hosted [here](https://github.com/kevinliu-bmb/MMTPy) by Kevin Liu
 ### Improvements
 
 * Added optimization function ```opt_comm_gem.py```.
-* Combined core pipeline into single file ```compy.py```.
+* Combined core pipeline into single file ```mmtpy.py```.
 * Added clearer printed checkpoints when running pipeline.
 * Removed string manipulation redundancies.
 * Cleaned comments and syntactic redundancies.
