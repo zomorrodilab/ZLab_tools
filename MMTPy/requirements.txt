@@ -1,0 +1,5 @@
+cobra==0.26.2
+gurobipy==10.0.1
+numpy==1.19.0
+pandas==1.4.4
+wget==3.2
