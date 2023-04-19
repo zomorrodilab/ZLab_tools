@@ -1,5 +1,7 @@
 # MMTPy: A Python Implementation of the Microbiome Modeling Toolbox (MMT) MgPipe Pipeline
 
+__Updated: April 18, 2023__
+
 Original Author: [Izzy Goodchild-Michelman, Zomorrodi Lab](https://github.com/zomorrodilab/izzy-gm/commits?author=zomorrodilab)
 
 Original MATLAB implementation: [Microbiome Modeling Toolbox 2.0 by Heinken et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/35157025/)
