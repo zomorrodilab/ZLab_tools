@@ -1,6 +1,12 @@
 # MMTPy: A Python Implementation of the Microbiome Modeling Toolbox (MMT) MgPipe Pipeline
 
-__Updated: April 18, 2023__
+__Updated: June 14, 2023__
+
+***This version of the MMTPy has been deprecated. A new reimplementation will be made available by 07/14/2023***
+
+__For the latest version of MMTpy, please refer to (this Github repository)[]__
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
 Original Author: [Izzy Goodchild-Michelman, Zomorrodi Lab](https://github.com/zomorrodilab/izzy-gm/commits?author=zomorrodilab)
 
