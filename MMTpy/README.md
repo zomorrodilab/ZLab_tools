@@ -1,5 +1,7 @@
 # MMTpy - Microbiome Modeling Toolbox Extensions
 
+__This is a clone of MMTpy hosted on the Zomorrodi Lab shared repository, uploaded on June 15, 2023. All links on this page will redirect to the live master branch hosted by Kevin Liu [GitHub](https://github.com/kevinliu-bmb/MMTpy) that is up-to-date.__
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -20,7 +22,7 @@
   <h3 align="center">MMTpy</h3>
 
   <p align="center">
-    Microbiome Modeling Toolbox extensions for multi-species genome-scale modeles of metabolism
+    Microbiome Modeling Toolbox extensions for multi-species genome-scale models of metabolism
     <br />
     <a href="https://github.com/kevinliu-bmb/MMTpy/issues">Report Bug</a>
     ·
